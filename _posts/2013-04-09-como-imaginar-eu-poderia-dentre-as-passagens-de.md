@@ -11,18 +11,18 @@ tags:
 - Vida
 tumblr_url: https://cientistpoems.tumblr.com/post/47564223622/como-imaginar-eu-poderia-dentre-as-passagens-de
 ---
-> Como imaginar eu poderia  
-> Dentre as passagens de minha vida  
+> Como imaginar eu poderia
+> Dentre as passagens de minha vida
 > Que uma mulher de tal beleza eu teria
-> 
-> Forte bate o meu coração  
-> A qualquer momento que com você estou  
-> É tão forte e linda esta paixão  
+>
+> Forte bate o meu coração
+> A qualquer momento que com você estou
+> É tão forte e linda esta paixão
 > De tão estranho que isso me completou
-> 
-> Pouco tempo havia se passado  
-> Mas nos tornamos melhores amigos  
-> Para então que o destino fosse trocado  
+>
+> Pouco tempo havia se passado
+> Mas nos tornamos melhores amigos
+> Para então que o destino fosse trocado
 > E assim pudessemos ser dois amados
 
 —Poema 13 - Da amizade ao amor – Lucas Teske
