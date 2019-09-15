@@ -10,23 +10,32 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
+        {% for post in paginator.posts %}
+        <li>
+          <div>
+            <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+            <h1 class="catalogue-title"><a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">{{ post.title }}</a></h1>
+            <div class="catalogue-line"></div>
+
+            <p>
+              {{ post.content | strip_html | truncatewords: 30 }}
+            </p>
+          </div>
+        </li>
+  {% endfor %}
     </ul>
+
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+      {% endif %}
+      <span>{{ paginator.page }}</span>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+      {% endif %}
+
+    </div>
 
     <p class="feed-subscribe">
       <a href="{{ 'feed.xml' | relative_url }}">
