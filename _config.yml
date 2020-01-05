@@ -8,6 +8,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-sitemap
 
 exclude:
   - .sass-cache/
@@ -32,3 +33,24 @@ minima:
     instagram: racerxdl
     telegram: lucasteske
     keybase: racerxdl
+    youtube_channel: TeskesLab
+
+twitter:
+  username: lucasteske
+  card: summary_large_image
+
+facebook:
+  app_id: 1209208119176770
+  publisher: https://www.facebook.com/teskeslab
+  admins: 1234
+
+social:
+  name: Lucas Teske
+  links:
+    - https://twitter.com/lucasteske
+    - https://www.facebook.com/elenic.racerxdl
+    - https://instagram.com/racerxdl/
+    - https://github.com/racerxdl
+    - https://keybase.io/racerxdl
+    - https://www.linkedin.com/in/lucas-teske-8206301b/
+    - https://www.youtube.com/c/TeskesLab
