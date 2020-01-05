@@ -16,31 +16,32 @@ tags:
 - poemas de amor
 tumblr_url: https://cientistpoems.tumblr.com/post/91890051490/poema-15-meu-grande-amor
 ---
-Oh meu amor, grande amor
-Como seria sem você minha vida?
-Sem seus doces labios de mel
 
-Sem seu lindo cabelo enroscando em minha barba,
-E depois você rindo de minha cara
-Com esse lindo sorriso
-Como eu poderia viver sem isso?
+Oh meu amor, grande amor<br/>
+Como seria sem você minha vida?<br/>
+Sem seus doces labios de mel<br/>
 
-Minha vida sem você ruim não era
-Mas com você eu consegui perceber
-Que nada do que eu tinha vivido poderia ser
-Como estar ao seu lado era
+Sem seu lindo cabelo enroscando em minha barba,<br/>
+E depois você rindo de minha cara<br/>
+Com esse lindo sorriso<br/>
+Como eu poderia viver sem isso?<br/>
 
-Diante de tanta beleza,
-Não sabia como reagir
-Na verdade eu ainda não sei
-E quem sabe o que ainda está por vir?
+Minha vida sem você ruim não era<br/>
+Mas com você eu consegui perceber<br/>
+Que nada do que eu tinha vivido poderia ser<br/>
+Como estar ao seu lado era<br/>
 
-Ao seu lado tudo se torna menor
-Até mesmo a Canis Maior
-Mesmo com das estrelas todo brilho
-Não chega nem perto do seu cílio
+Diante de tanta beleza,<br/>
+Não sabia como reagir<br/>
+Na verdade eu ainda não sei<br/>
+E quem sabe o que ainda está por vir?<br/>
 
-O passado já não importa mais
-O presente é o melhor que tenho
-O futuro nos reseva demais
-E diz: Aos dois juntos eu venho
+Ao seu lado tudo se torna menor<br/>
+Até mesmo a Canis Maior<br/>
+Mesmo com das estrelas todo brilho<br/>
+Não chega nem perto do seu cílio<br/>
+
+O passado já não importa mais<br/>
+O presente é o melhor que tenho<br/>
+O futuro nos reseva demais<br/>
+E diz: Aos dois juntos eu venho<br/>

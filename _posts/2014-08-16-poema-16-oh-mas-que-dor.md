@@ -14,37 +14,39 @@ tags:
 - triste
 tumblr_url: https://cientistpoems.tumblr.com/post/94879759790/poema-16-oh-mas-que-dor
 ---
-Oh, mas que dor
-Eu sinto muita dor
-Não é uma dor física
-Mas ela é sim muito especifica
 
-Você longe de mim
-Eu longe de você
-Como aqui parar vim?
-Como dói, não pode se
 
-A sombra de suas dores
-Em mim está sendo refletida
-Nem com as coisas boas que Ele pores
-Sua vida está sendo vivida
+Oh, mas que dor<br/>
+Eu sinto muita dor<br/>
+Não é uma dor física<br/>
+Mas ela é sim muito especifica<br/>
 
-Oh, mas que dor
-Você também a sente
-Quem é que pode por
-Tal sombra que está presente
+Você longe de mim<br/>
+Eu longe de você<br/>
+Como aqui parar vim?<br/>
+Como dói, não pode se<br/>
 
-Presente em você, meu amor
-Sombra que avança nas boas coisas
-Sombra que reina sobre seu clamor
-Por que deixas seguirem estas?
+A sombra de suas dores<br/>
+Em mim está sendo refletida<br/>
+Nem com as coisas boas que Ele pores<br/>
+Sua vida está sendo vivida<br/>
 
-Muita luz dentro de você existe
-Muita inteligência e beleza
-Não deixe as amarguras te deixarem triste
-Não deixe ela levar a tua certeza
+Oh, mas que dor<br/>
+Você também a sente<br/>
+Quem é que pode por<br/>
+Tal sombra que está presente<br/>
 
-Certeza do nosso amor
-Que me faz o homem mais feliz
-Certeza do meu amor
-Que te faz a mulher mais feliz
+Presente em você, meu amor<br/>
+Sombra que avança nas boas coisas<br/>
+Sombra que reina sobre seu clamor<br/>
+Por que deixas seguirem estas?<br/>
+
+Muita luz dentro de você existe<br/>
+Muita inteligência e beleza<br/>
+Não deixe as amarguras te deixarem triste<br/>
+Não deixe ela levar a tua certeza<br/>
+
+Certeza do nosso amor<br/>
+Que me faz o homem mais feliz<br/>
+Certeza do meu amor<br/>
+Que te faz a mulher mais feliz<br/>
