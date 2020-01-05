@@ -24,6 +24,9 @@ exclude:
 
 paginate: 5
 
+# Google Analytics
+google_analytics: UA-34023969-2
+
 minima:
   social_links:
     twitter: lucasteske
