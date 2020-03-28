@@ -25,4 +25,4 @@ tumblr_url: https://cientistpoems.tumblr.com/post/36994389484/o-estudo-%C3%A9-a-
 
 &nbsp; &nbsp; &nbsp;Acho que eu usava o estado inconsciente do cérebro pra isso, não sei. Só sei que eu resolvi a contas que geralmente eram demoradas de se fazer na mão, eu as fazia instantaneamente. E com um pouco de prática eu conseguia recordar de coisas do meu dia dentro do meu sonho. Era divertido, repetir meu dia dentro do sonho e alterar coisas que eu queria alterar. Por exemplo, chingar aquele professor chato da escola.
 
-(Próxima parte: [Sentimentos dos Sonhos](http://cientistpoems.tumblr.com/2019/09/15/2012-12-13-sentimentos-dos-sonhos.html))
+(Próxima parte: [Sentimentos dos Sonhos](/2012/12/13/sentimentos-dos-sonhos))

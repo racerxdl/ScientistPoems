@@ -23,4 +23,4 @@ Usando a internet, comecei os estudos sobre a mente humana. Queria saber mais, m
 
 &nbsp; &nbsp; A maioria era tudo baboseira. Pessoas querendo chamar a atenção com coisas falsas, inventadas ou coisa do tipo. Detesto isso. Para que inventar algo assim? Para que tentar mostrar que é algo que realmente não é? Perda de tempo. De verdade. Mas certos relatos e documentos me interessaram. Dos que faziam algum sentido, a maioria era relativo a sonhos lúcidos. Uma pessoa disse que era apenas possível descobrir os limites da própria mente explorando-a pelos próprios sonhos. Fazia muito sentido, afinal eu sabia que em um sonho, você está algumas “camadas” abaixo da sua consciência, ou seja, mais próximo do funcionamento físico do seu cérebro. Resolvi então ir atrás desse assunto.
 
-(Próxima parte: [Sonhos Lúcidos](http://cientistpoems.tumblr.com/post/36993095011/sonhos-lucidos))
+(Próxima parte: [Sonhos Lúcidos](/2012/12/01/sonhos-lúcidos))

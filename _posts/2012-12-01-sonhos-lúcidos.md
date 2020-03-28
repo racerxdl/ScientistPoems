@@ -24,4 +24,4 @@ tumblr_url: https://cientistpoems.tumblr.com/post/36993095011/sonhos-l%C3%BAcido
 
 &nbsp; &nbsp; &nbsp;Assim fiz. Meu espírito analista me fez analisar cada detalhe do que eu fazia e seus efeitos. Levei mais ou menos um mês para conseguir ter sonhos lúcidos intencionalmente quando eu quisesse. Era bem divertido, no começo eu apenas tinha sonhos lúcidos para fazer o que todos geralmente querem fazer. Voar, pular de lugares super altos, visitar outros lugares do mundo e coisas do tipo. Depois que peguei o hábito de ter sonhos lúcidos, resolvi aprofundar meu estudo da mente humana.
 
-(Próxima parte: [O estudo é a chave … ou não!](http://cientistpoems.tumblr.com/post/36994389484/o-estudo-e-a-chave-ou-nao) )
+(Próxima parte: [O estudo é a chave … ou não!](/2012/12/01/o-estudo-é-a-chave-ou-não) )

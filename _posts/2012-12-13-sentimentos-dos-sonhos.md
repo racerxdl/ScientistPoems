@@ -23,4 +23,4 @@ tumblr_url: https://cientistpoems.tumblr.com/post/37852077543/sentimentos-dos-so
 
 &nbsp; &nbsp; &nbsp;Ela fazia cenas onde eu poderia beijar a garota, onde a garota me quisesse. Se fosse apenas amizade, as cenas eram coisas normais do dia a dia, ou aventuras de jogos. Esse recurso eh bem útil para que eu&nbsp;não&nbsp;confundisse as coisas.
 
-(Próxima parte: [A Fábrica Inconsciente](http://cientistpoems.tumblr.com/post/37997618784/a-fabrica-inconsciente))
+(Próxima parte: [A Fábrica Inconsciente](/2012/12/15/a-fábrica-inconsciente))
