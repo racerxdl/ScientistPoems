@@ -24,3 +24,4 @@ Criei essa página para organizar melhor os poemas que faço. Abaixo estarão li
 * [Poema 14 - Por que chora, bebê?](/2014/07/15/poema-14-por-que-chora-beb%C3%AA.html)
 * [Poema 15 - Meu grande amor](/2014/07/15/poema-15-meu-grande-amor.html)
 * [Poema 16 - Oh, mas que dor](/2014/08/16/poema-16-oh-mas-que-dor.html)
+* [Poema 17 - Em quarentena mas feliz](/2020/03/28/em-quarentena-mas-feliz.html)
